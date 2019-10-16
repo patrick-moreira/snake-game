@@ -1,7 +1,7 @@
 body{
     overflow: hidden;
-    background-color: #ccc;
-    
+    background-image: url(../src/assets/images/background.png);
+    background-size: cover;    
 }
 .containerScores{
     height: auto;
